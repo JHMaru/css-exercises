@@ -1,0 +1,16 @@
+.stink{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#beta{
+    font-size: 32px;
+    color:blue;
+}
+.stink.subtle{
+    font-size: 24px;
+}
+#theta{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
